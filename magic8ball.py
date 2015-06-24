@@ -19,7 +19,7 @@ class Magic8BallPlugin(plugintypes.TelegramPlugin):
                 "Probably", 
                 "Yes", 
                 "No", 
-                "In you're dreams", 
+                "In your dreams", 
                 "Not Likely", 
                 "That could be the case", 
                 "Absolutely", 
